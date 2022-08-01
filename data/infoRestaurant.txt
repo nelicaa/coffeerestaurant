@@ -1,0 +1,9 @@
+Name=Coffee&restaurant
+Address=198 West 21th Street, Suite 721 New York NY 10016
+Phone=0652452256
+Email=coffee@gmail.com
+Website=https://coffeerestaurant.000webhostapp.com
+About=Our sustainability program includes low waste culinary practices, recycling, organic cleaning supplies, biodegradable sugar fiber paper goods and corn plastic cups.
+OpenDays=Monday,Tuseday,Wednesday,Thursday
+OpenHours=08:30-22:30
+Story=Our sustainability program includes low waste culinary practices, recycling, organic cleaning supplies, biodegradable sugar fiber paper goods and corn plastic cups. We work with our local produce provider to bring in as much organic produce as possible and our chefs personally source our beef and poultry from the southwest region.Most emphatically we do not want to capitalize on healthy dietary trends and green business practices solely for monetary gain. We do have the best sustainable practices of any restaurant
